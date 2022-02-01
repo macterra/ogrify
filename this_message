@@ -1,0 +1,17 @@
+I was on the Salt Lake City to Calgary leg of my flight
+from L.A. I had just finished reading the brutal Puppy
+interview in Propaganda and was looking for some more
+reading material. The in-flight magazine was boring so
+I pulled out the barf bag and found this C program
+scrawled in crayon on one side.
+As far as I can tell, it's a filter program that will
+convert any text file (on stdin) into Skinny Puppy lyrics.
+Another input file can be specified on the command line
+which contains special Ogre words. Any word in the
+original text has a 5% chance of being replaced with an
+Ogre word. The probability can be changed with a 2nd
+command line parameter.
+
+For instance, when I put this particular message through
+the filter, using the Ogre words file tacked on at the
+end, with this command line...
