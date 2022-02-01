@@ -3,6 +3,9 @@
 Recovered from [rec.music.industrial](https://groups.google.com/g/rec.music.industrial/c/D-D4d-HbPQw/m/KihMAFwMlI8J?fbclid=IwAR3SshMuJ6pLqC4UcpVUfz_C7XBF7sPynJjn7VmekduKl44-LwyrpxSJodg&pli=1
 )
 ```
+subject: ogrify.c
+date: Nov 20, 1991
+
 I was on the Salt Lake City to Calgary leg of my flight
 from L.A. I had just finished reading the brutal Puppy
 interview in Propaganda and was looking for some more
